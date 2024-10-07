@@ -27,4 +27,20 @@ C:\Program Files\Java\jdk-11.0.24\bin\javaw.exe
 -Dosgi.module.lock.timeout=10
 -Dfile.encoding=utf-8
 ```
+- STS3
+- Spring legacy: 5.0.7
+- JDK: 11
+- Tomcat: 9
+- Maven(pom.xml)
+
+- Servlet 2.5
+
+- Port: 80
+Run/Debug > Console > Console buffer size (characters): 80000 -> 1000000
+
+## lombok
+java -jar lombok.jar
+- STS.ini
+`-javaagent:C:\sts3\lombok.jar`
+
 
