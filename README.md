@@ -44,3 +44,6 @@ java -jar lombok.jar
 `-javaagent:C:\sts3\lombok.jar`
 
 
+root-context.xml
+- beans
+- context 
